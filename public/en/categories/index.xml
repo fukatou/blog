@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Fukatou</title>
-        <link>https://fukatou.github.io/blog/en/categories/</link>
+        <link>http://localhost:1313/blog/en/categories/</link>
         <description>Recent content in Categories on Fukatou</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Fukatou</copyright><atom:link href="https://fukatou.github.io/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Fukatou</copyright><atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
