@@ -1,12 +1,12 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
-date: 2020-09-09
+title: 第一篇博客
+description: 记录研究生生活
+date: 2025-08-21
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
-    - 测试
+    - 研究生
+    - linux
 ---
 
 ## 正文测试
